@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Np65k86.png" width="25%" align="right">
 <h1 align="center">LuthKun</h1>
-```
+```css
 Se deseja me parar vá em frente e tente.
 - Monkey D. Luffy
 ```
