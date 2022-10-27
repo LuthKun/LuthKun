@@ -2,4 +2,4 @@
 <h1 align="center">LuthKun</h1>
 <h3 align="center">Plugin de regeneração de blocos.</h3>
 
-[<img src="https://discord.c99.nl/widget/theme-3/278723465706602496.png" />](https://discord.com/users/278723465706602496)
+<center> [<img src="https://discord.c99.nl/widget/theme-3/278723465706602496.png" />](https://discord.com/users/278723465706602496) </center
